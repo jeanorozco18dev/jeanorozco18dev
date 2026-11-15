@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:2563eb&height=200&section=header&text=Jean%20C.%20Orozco&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20ERP%20de%20Salud%20%26%20SaaS%20Financiero&descSize=18&descAlignY=60" alt="Jean C. Orozco" />
 
 [![Colombia](https://img.shields.io/badge/📍_Colombia-0f766e?style=for-the-badge)](https://github.com/jeanorozco18dev)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](#)
