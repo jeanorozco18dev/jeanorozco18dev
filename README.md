@@ -95,7 +95,11 @@ Documento cada proyecto en un *vault* de **Obsidian**: visión del producto, req
 
 Abierto a proyectos, colaboraciones y oportunidades.
 
-<!-- Agrega aquí tu enlace de LinkedIn y tu correo -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-orozco-n-6510ab1b1/)
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f766e&height=100&section=footer" alt="" />
