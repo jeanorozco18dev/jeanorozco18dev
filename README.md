@@ -58,11 +58,18 @@ Diseño el modelo desde el negocio: diccionario de datos, normalización, migrac
 
 ## 🤖 IA en mi flujo de desarrollo
 
+Uso **[Claude Code](https://claude.com/claude-code)** en mi día a día como asistente de desarrollo directamente en el terminal y en mis repos.
+
 - Análisis de requisitos y propuesta de arquitectura antes de escribir código.
 - Generación y revisión de pruebas, refactors y documentación técnica.
 - Auditorías de código y de seguridad como parte del ciclo de entrega.
+- Automatización de tareas repetitivas: configuración, migraciones, despliegue.
 
 > La IA acelera el trabajo. La responsabilidad sobre el diseño y la calidad sigue siendo mía.
+
+## 📓 Documentación con Obsidian
+
+Documento cada proyecto en un *vault* de **Obsidian**: visión del producto, requisitos de negocio, arquitectura, diccionario de datos, decisiones técnicas, registro de errores y checklist de despliegue. Así el conocimiento queda escrito y versionado, no solo en mi cabeza.
 
 ---
 
@@ -81,6 +88,7 @@ Diseño el modelo desde el negocio: diccionario de datos, normalización, migrac
 | **Datos** | MySQL · PostgreSQL · modelado relacional |
 | **Móvil** | React Native · Expo |
 | **Infra y calidad** | Docker · Git · PHPUnit · Vitest |
+| **Herramientas** | Claude Code · Obsidian · Figma · VS Code |
 
 ---
 
